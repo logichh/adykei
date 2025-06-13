@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/adykei/static/css/main.ce33af9f.css",
+    "main.js": "/adykei/static/js/main.2b7a2f69.js",
+    "static/media/minecraft-font.ttf": "/adykei/static/media/minecraft-font.e01d4c33797bad833313.ttf",
+    "index.html": "/adykei/index.html",
+    "main.ce33af9f.css.map": "/adykei/static/css/main.ce33af9f.css.map",
+    "main.2b7a2f69.js.map": "/adykei/static/js/main.2b7a2f69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce33af9f.css",
+    "static/js/main.2b7a2f69.js"
+  ]
+}
